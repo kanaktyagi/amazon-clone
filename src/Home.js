@@ -6,7 +6,7 @@ function Home() {
     return (
         <div className="home">
         <img className="home_image"
-        src="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonVideo/2020/X-site/SingleTitle/BandishBandits/Launch/3000x1200_Hero-Tall_p._CB407155762_.jpg"
+        src="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Wireless/OnePlus/August/OnePlus8Series/KV1/V236167621_INBAU_OnePlus8seresOnePlus7Tseries_DesktopTallHero_3000x1200._CB407757652_.jpg"
         alt= "amazonproduct" />
         <div className="home__row">
             <Product
