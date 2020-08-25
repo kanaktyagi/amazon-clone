@@ -1,0 +1,13 @@
+.checkout__ad{
+ width: 50%;
+ margin-bottom: 10px;
+ display: block;
+ margin: 0 auto;
+ min-width: 650px;
+
+}
+.checkout {
+    /* display: block;
+    margin: 0 auto;
+    min-width: 650px; */
+}
