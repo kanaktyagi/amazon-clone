@@ -6,8 +6,14 @@
  min-width: 650px;
 
 }
+.checkout__title {
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
 .checkout {
-    /* display: block;
-    margin: 0 auto;
-    min-width: 650px; */
+    /* display: flex; */
+    /* padding: 20px; */
+    background-color: white;
+    /* height: max-content; */
 }
