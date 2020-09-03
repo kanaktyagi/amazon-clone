@@ -4,6 +4,7 @@
  display: block;
  margin: 0 auto;
  min-width: 650px;
+ padding-left: 250px;
 
 }
 .checkout__title {
@@ -12,8 +13,11 @@
     border-bottom: 1px solid lightgray;
 }
 .checkout {
-    /* display: flex; */
-    /* padding: 20px; */
+    display: flex; 
+     padding: 20px;
     background-color: white;
-    /* height: max-content; */
+    height: max-content;
+}
+.checkout__right {
+   padding-left:100px ;
 }
