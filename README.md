@@ -1,3 +1,9 @@
+## Demo of the clone hosted on Firebase 
+
+
+https://clone-c3161.web.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
